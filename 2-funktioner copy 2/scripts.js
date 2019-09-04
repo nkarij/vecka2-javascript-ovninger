@@ -1,4 +1,0 @@
-
-// ØV2 - FUNKTIONER
-
-
